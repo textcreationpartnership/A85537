@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse in derision of the teaching in free-schooles, and other common schooles.</title>
+            <author>Grantham, Thomas, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85537</idno>
+            <idno type="STC">Wing G1552</idno>
+            <idno type="STC">Thomason E53_7</idno>
+            <idno type="STC">ESTC R13919</idno>
+            <idno type="EEBO-CITATION">99859578</idno>
+            <idno type="PROQUEST">99859578</idno>
+            <idno type="VID">155218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E53[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse in derision of the teaching in free-schooles, and other common schooles.</title>
+                  <author>Grantham, Thomas, d. 1664.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Consists of one quire signed: H.</note>
+                  <note>Annotation on Thomason copy: "July 4th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  Humor.</term>
+               <term>Teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:155218:1" rendition="simple:additions"/>
+            <head>A DISCOVRSE IN Deriſion of the Teaching in Free-Schooles, and other common Schooles.</head>
+            <stage>
+               <p>The Speakers on the One ſide are;
+<list>
+                     <item>
+                        <list>
+                           <head>Maſters of Free-Schooles.</head>
+                           <item>CUFF-UM,</item>
+                           <item>FLEA-BUTTOCK,</item>
+                           <item>TVVIG-TAIL,</item>
+                        </list>
+                     </item>
+                     <item>SIMON DOTTERIL, a Citizen.</item>
+                     <item>HUMPHRY GOOSE, a Country Gentlemen.</item>
+                  </list>
+               </p>
+               <p>And on the other ſide;
+<list>
+                     <item>EUTRAPILUS, a Traveller.</item>
+                     <item>THOMAS GRANTHAM, Profeſſor of the Greek and Latin Tongues, in <hi>London.</hi>
+                     </item>
+                  </list>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Simon Dotterill.</speaker>
+               <p>
+                  <seg rend="decorInit">S</seg>Ave you Maſter Grantham, I am glad to ſée you; but would be gladder if you would not differ ſo much in your way of Teaching, from theſe grave Schoole-maſters: Gentlemen I tell you all the Diſputes are hot on both ſides, not onely here in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> but elſewhere.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Sir, there is no hope of reconciliation, ſo
+<pb n="2" facs="tcp:155218:2"/>
+long as ſo many Knaves and Fooles are intereſted in the cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Dotteril.</speaker>
+               <p>Syr, me thinks a little wit might eaſily diſ<g ref="char:EOLhyphen"/>prove Maſter <hi>Granthams</hi> way.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Sir, then you are as ſit a man as can be for that purpoſe. I pray you let us hear what you can ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Dotteril.</speaker>
+               <p>Syr, the way of learning without Booke, is an ancient approved way; I remember thirty years ago, I was whipt thrice for the thrée degrees of compariſon, becauſe I could not ſay them without Book: once for eve<g ref="char:EOLhyphen"/>ry degree.</p>
+            </sp>
+            <sp>
+               <speaker>Humphry Gooſe.</speaker>
+               <p>And I remember when I went to Schoole, the Vſher tyed a knot of a Ruſh for every word I miſt, but I miſt ſo many words, that four or five ruſhes was not enough for me; but then at laſt I got a trick to write my Leſſon on the back ſide of my Book, and ſo I could ſay it, although my Maſters face was many times towards me.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Maſter <hi>Dotteril,</hi> I could prove that Grammer it ſelfe is not the ancient way of learning a Language; much leſſe the learning of it word by word without Book: for the Inventors of the Grammer (you will grant) had the Language before the Art. But I will ſpeak more plainly to you. The Grammers which were before <hi>Lilly,</hi> (a) were<note place="margin">
+                     <hi>Viz.</hi> Priſcia<g ref="char:EOLhyphen"/>nus, Tertel<g ref="char:EOLhyphen"/>lius, Lanciolo<g ref="char:EOLhyphen"/>tus, Nicolaus Ferellus, Georgius Val<g ref="char:EOLhyphen"/>la, Aldus Ro<g ref="char:EOLhyphen"/>manus, Neſtor Stoa, Eriſtli<g ref="char:EOLhyphen"/>n<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note> ſome of them almoſt as big as a Church Bible: (if you take out the <hi>Apocrypha</hi> and <hi>Common-Prayer.</hi>) Now to learne theſe word by word without Book, was a taske paſſing the patience of an Aſſe. Upon this <hi>Eraſmus</hi> concludeth <note n="b" place="margin">Moriae En<g ref="char:EOLhyphen"/>comio.</note> 
+                  <hi>That Grammer it ſelf is enough to make a man ſpend his whole life in Tortures.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dotteril.</speaker>
+               <p>Good Maſter <hi>Cuffum</hi> help me out. I am ab<g ref="char:EOLhyphen"/>ſolutely gravelled.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>I ſay, and will maintain, that learning the Grammer word by word without Book, is ancient and approved.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>What is your reaſon Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>What is your reaſon to the contrary?</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Sir, if you ſhould diſpute ſo in an Univerſity,
+<pb n="3" facs="tcp:155218:2"/>
+you would be hiſſed at: He asketh you to prove what you ſay, and you bid him prove the contrary: The task lyes on you to ſhow a reaſon for what you ſay, but there is no more to be expected from an <hi>Aſs in praeſents.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>Syr, I can prove it hath been practiſed, and commanded in the Preface to the Reader before the Grammer.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapiles.</speaker>
+               <p>Sir, you were too much cuffed and dulled at Schoole, to attain to any Logick; There are many things practiſed, that are not lawfull: I therefore deny your ſequell. And in that Preface, there is not a word of ſaying word by word without Book, and there was never any command by Authority, laid on the common Schooles for it.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>There is in that Treatiſe much againſt your ſelves; As, that <hi>a Boy ſhould not learn by Rote, but by Rea<g ref="char:EOLhyphen"/>ſon:</hi>
+                  <note place="margin">See the Pre<g ref="char:EOLhyphen"/>face to the Reader before the Grammer.</note> But you teach firſt all the Grammer by Rote, and after cuffe the underſtanding of it into him. There are alſo theſe very words, which are much againſt you: <hi>That Boyes ſhould not learn the Rules orderly as they lye in the Syntaxe, but ſome little ſentence ſhould be given them; and if there fall any neceſſary rule of the Syntaxe to be known, then to learn it as the occaſion of the ſentence giveth cauſe that day.</hi> But you teach all word by word without Book; ſo that a Boy is confounded with a multitude of Rules, and knowes no<g ref="char:EOLhyphen"/>thing diſtinctly, till he hath been cuffed and whipt ſeven yeares together: So that Doctor <hi>Web</hi> ſaith, <hi>they are ſome<g ref="char:EOLhyphen"/>times twenty, ſometimes thirty, before they go to the Vniverſity.</hi> I heard ſome ſay of good credit, they knew one who con<g ref="char:EOLhyphen"/>feſſed he was ſeven and thirty yeares of age, before he came from Schoole to their Colledge.</p>
+            </sp>
+            <sp>
+               <speaker>Twigtail.</speaker>
+               <p>What way then do you ſay is the beſt?</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Sir, there are three things moſt neceſſary in a Language; the words, the Stile, the Rules: For the words, a Boy may eaſily learn a thouſand words in ten dayes; that is, a hundred words a day, ſuppoſe a man allow an houre for twenty words, in five houres he learneth a hundred words. I have taught ſome that have learned a hundred words in an houre: but I do not mean after the ſilly ſuſtian way of
+<pb n="4" facs="tcp:155218:3"/>
+learning in the common Schooles, to ſay them all in order by rote like a Parrot, but let him have an hundred Engliſh words, and a hundred Latin words printed or writ, he ſhall tell you Latin for any Engliſh word, and this is the learning I mean.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Now Mr. <hi>Twigtail,</hi> and Mr. <hi>Flea-buttock,</hi> you are both bound in conſcience to conceive, that he that un<g ref="char:EOLhyphen"/>derſtands one thouſand, muſt needs underſtand many thou<g ref="char:EOLhyphen"/>ſands more: for many derivatives, compounds, decompounds, are underſtood by the help of the ſimples, and he that under<g ref="char:EOLhyphen"/>ſtands thus much, will underſtand moſt Authors he reads.</p>
+            </sp>
+            <sp>
+               <speaker>Dotteril,</speaker>
+               <p>But how ſhall they do for a ſtile?</p>
+            </sp>
+            <sp>
+               <speaker>Eutrap.</speaker>
+               <p>M. <hi>Dotteril</hi> I will ſhow you by an example: There is a certain bird which is a fool, or a fowl, or a fooliſh fowl, called a <hi>Dotteril,</hi> your own name-ſake: this bird if you ſee him thruſt out his right wing, thruſt you out your right arm, if he thruſts out his left leg, thruſt you out yours, if he thruſts out his neck, thruſt you out yours, and thus by imitating of him, you will come ſo neare till you take him up in your hand. And ſo in an Author, where you ſee him place his adjective adverb, or conjunction, do you ſo to: and by this imitation, you will catch the ſtrain of your Author, and come to a great perfection. If you imitate but ſix leaves in a tranſ<g ref="char:EOLhyphen"/>lation, which you may do in two dayes, then you may come near the ſtrain of the Author.</p>
+            </sp>
+            <sp>
+               <speaker>Twig-tail.</speaker>
+               <p>In this thing I am ſomething ſatisfied.</p>
+            </sp>
+            <sp>
+               <speaker>Flea-buttock.</speaker>
+               <p>But what do you ſay for the Rules?</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>The rules I would reach thus. Firſt, conſider there are 8. parts of Speech, for the 4. that are undeclined, I bid my Scholler take very little care, becauſe they are not declined, nor varied, nor altered at all, as you find an Ad<g ref="char:EOLhyphen"/>verbe or a Conjunction in one place, ſo you finde him every where. Of the other 4. I bid him take care but of two, that is a Noun, and a Verb, for a Pronoun is much like to a Noun, know one, know the other: a Participle that takes part both of a noun and a Verb: both thoſe known, the participle is knowne. So here is but two things chiefly to be cared for, that is a Noun, and a Verb. But be ſure to underſtand the definition of every part of ſpeech, not word by word with<g ref="char:EOLhyphen"/>out Book, but the ſenſe of it.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:155218:3"/>
+               <speaker>Eutrapilus.</speaker>
+               <p>How like you this Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Twig-tail.</speaker>
+               <p>Truly I finde ſome ſenſe in this?</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Truly or elſe I ſhould have thought there had been little ſenſe in you.</p>
+            </sp>
+            <sp>
+               <speaker>Fleabuttock.</speaker>
+               <p>Maſter <hi>Grantham</hi> proceed I pray.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Next I ſhow him the Speciall Rules, and how he may know by them the Gender of any Noun: If a Noun vary from a ſpeciall Rule, as <hi>virus Pelagus,</hi> I bid him look in the Neuters, and there he ſhall ſee the word excepted, or ſomething that does imply that word: For others that are not under the ſpeciall Rules, let him onely ſay the Gender followes the Sexe, as Males and Offices that belong to men, are Maſculines; Females, Feminines. The ſame courſe I take in <hi>As in praeſenti.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>You have ſpoke to two or three at this pre<g ref="char:EOLhyphen"/>ſent, I will aſſure you.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Then I ſhow the Concords, and with two or 3. lines annext, he hath all things neceſſary for the Syntaxe.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Now Maſter <hi>Cuffum,</hi> you muſt conceive he does not ſhow them the Concords and Engliſh rules as they are in the Grammer, that is before the Genders and the Verbs, as you do, for that is non-ſence: for how can a Boy conceive an Adjective to agree with his Subſtantive in caſe, Gender, and number, when he hath read nothing of the Gen<g ref="char:EOLhyphen"/>ders of Nounes, and can ſhow no rule for it.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>And all this concerning Concords, Nounes, and Verbs, I ſhow in an houre.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>Now brother School-maſters, mark ſomething to laugh at; he teacheth a thouſand words in ten dayes, a ſtile in two dayes, Genders of Nounes, Conjugations of Verbs all in an houre, ſo reckon all together, in twelve dayes and an hour, he teaches to underſtand much of the Latin tongue.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Yes Sir that he doth, to ſuch as you have not too much cuffed, and dulled, and twig'd, and fleaed.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>M. <hi>Cuffum</hi> you are too hot, if you cannot deny any of theſe ſeveral, then they are true altogether, you grant a man may learn a hundred words a day, that way I ſpeak on?</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:155218:4"/>
+               <speaker>Cuffum.</speaker>
+               <p>That I grant.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>You will grant a man may imitate ſixe leaves in two dayes.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>I will not differ with you for that neither.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Then you will grant the Rules may be learned as I have expreſſed?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>Truly, that I grant too, onely this makes me averſe; although I conceive ſuch a thing poſſible to be done, yet becauſe I never ſaw it done, I am ſomething in<g ref="char:EOLhyphen"/>credulous.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Sir I can bring you ſufficient proofe of this, by Earles, Lords, Collonels, Knights, and Gentlemen, all Parliament men. Or take a ſhorter or a nearer way of triall. Amongſt many in my Schoole, I have one not above ten yeares of age, who hath been with me but a little above a year; This boy will conſter at the firſt fight, preſently out of the Greek Teſtament, into good Latin: Perhaps ſome place may ſtagger him for the preſent, but he will ſoon over<g ref="char:EOLhyphen"/>come it. Give him a Latin Author, he ſhall conſter a Leafe or two with a little conſideration. And ſo in a Greek Au<g ref="char:EOLhyphen"/>thor, Poet, or Orator in any Dialect. I teach him the Greek tongue, becauſe all the termes of Grammer, all the termes of Tropes and Figures in Rhetorick, are Greek: and know<g ref="char:EOLhyphen"/>ing the Originall, he learnes that in a Moneth, he could not learne without it in two yeares.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffum.</speaker>
+               <p>Can he Accent a piece of Greek?</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Any Greek in any Dialect. Still I ſay he may be ſtaggered, but he will recover himſelfe preſently. This Boy underſtood not two lines in his Accidence when he came to me, and could not ſay one without Book, and now he is skilled in eleven Greek Grammers, and can prove any Greek or Latin verſe that is laid before him, and alſo make.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Now let me ſee any Boy that hath gone ten yeares to the Schoole, in any of your common Schooles, do ſo much: And Maſter <hi>Granthams</hi> Schollers playes ten times as much as any common Schooles.</p>
+            </sp>
+            <sp>
+               <speaker>Flea-buttock.</speaker>
+               <p>Syr, we confeſſe it is very much, and you do well to ſhow a nearer way to Learning. In the Preface
+<pb n="7" facs="tcp:155218:4"/>
+to the Reader before the Grammer, there are theſe words: <hi>If one ſeeing by triall an eaſier and readier way then the com<g ref="char:EOLhyphen"/>mon</hi>
+                  <note place="margin">See the Pre<g ref="char:EOLhyphen"/>face to the Reader, before the Grammer.</note> 
+                  <hi>ſort of Teachers, would ſay what he hath proved, and of the commodity allowed, that others not knowing the ſame, might by Experience prove the like.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Sir this way is beſt for common Schooles, for a Maſter may teach as well a hundred as one, becauſe the way is by dictating, and runs all upon the tongue; if you have but one fine leading Boy, the reſt will come eaſily on: unleſſe they be very careleſſe, and will not give their minds to it at all. As ſome will not unleſſe they be cuffed, and whipped, which is againſt my way of teaching: for I have not had a Rod in my Schoole, many times for halfe a yeare together.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Maſter <hi>Cuffum,</hi> I will now make it appear to you, you are far out of the way in teaching. Mark <hi>Moun<g ref="char:EOLhyphen"/>taign</hi>
+                  <note place="margin">Lib. 1. cap, 25.</note> his words in his Eſſayes. <hi>I muſt needs acknowledge that the Greek and Latin Tongues, are great Ornaments in a Gentleman, but they are purchaſed at an over high rate; I will tell you how they may be gotten eaſier, as it was tried in mine Education: So ſoon as my tongue was looſed, my Father had Schollers eminent for the Latin tongue, who ſpoke nothing but Latin to me: ſo that before I was ſixe yeares of age, I ſpake pure Latin, full as readily as any Boy could his Mother tongue at that Age.</hi> Sir, take another inſtance. Let a Boy of ſeven or eight years of age, be ſent out of England into France: he ſhall learn in a twelve moneth and leſſe, to write and ſpeak the French tongue readily, although he keep much compa<g ref="char:EOLhyphen"/>ny with Engliſh, reade many Engliſh Books, and write ma<g ref="char:EOLhyphen"/>ny Engliſh Letters home; and all this with pleaſure and de<g ref="char:EOLhyphen"/>light: Whereas many thouſand who have gone to Free-Schooles two ſeven yeares, for they keep them longeſt, and there they riſe up early and go to bed late, ſhed many a reare both before and behinde; and with all this Learning, which hath been put into them like a Gliſter, they cannot ſpeak at all: and they cannot write a piece of ordinary La<g ref="char:EOLhyphen"/>tin, unleſſe they have Dictionaries and Phraſe-Books, and many of them have as much Greek as their Maſters, that is
+<pb n="8" facs="tcp:155218:5"/>
+little, or none at all. Whoſoever conſiders this, muſt needs confeſſe we have not the knack of Teaching.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>The Common-wealth ſuffers much, in this tedious way of Teaching: Very few of our Gentry are Schollers, for at fourteen or fifteen the bloud growes hot, and they ſcorn a yoak, and then they are but punies, in the Common-Schooles, under the loweſt or ſecond Uſher. Now if there be three Maſters in a Schoole, three to one but a Boy miſcarries under one: For they are of ſeverall diſpoſitions, and the Boy cannot agree with all. A Boy will learne under one Maſter, nor under another, ſuppoſe a Boy paſſe the firſt Uſher, and ſecond, yet the higheſt Maſter, with a great deal of paines, care, and diligence, may make him as errand a Dunce, as ever went to the Univerſity, or as ever came from thence.</p>
+            </sp>
+            <sp>
+               <speaker>Eutrapilus.</speaker>
+               <p>Sir, you may ſee more of this in a Book he writ; Called, <hi>The Brain-Breakers Breaker:</hi> And in his <hi>Animadverſions upon Cambdens Greek Grammer:</hi> To be ſold in <hi>Little Brittain</hi> over againſt the Clocke. Gentlemen, for the preſent, Farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Grantham.</speaker>
+               <p>Succeſſe to you Gentlemen.</p>
+            </sp>
+            <p>
+               <hi>Cuſſ. Twig-tail. Fleab.</hi> The like to you. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
